@@ -6,10 +6,13 @@ baseurl:           ""
 #url:              "http://blackrockdigital.github.io"
 url:               "https://oneaction.nz"
 
+# set timezone
+timezone:           "Pacific/Auckland"
+
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  OneActionNZ
+github_username:   OneActionNZ
+facebook_username: OneActionNZ
 
 # Build settings
 markdown:          kramdown
