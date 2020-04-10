@@ -1,0 +1,24 @@
+- title: Home
+  url: /
+- title: Explore
+  url:
+  sublinks:
+    - title: Constitution
+      url: /Constitution/
+    - title: Digital Democracy
+      url: /DigitalDemocracy/
+    - title: TallyUp
+      url: /Join/
+    - title: Funding
+      url: /Funding/
+    - title: Roadmap
+      url: /Roadmap/
+   
+- title: Join!
+  url: /Join/
+- title: Contact
+  url: /Contact/
+- title: FAQ
+  url: /FAQ/
+- title: Team
+  url: /Team/
