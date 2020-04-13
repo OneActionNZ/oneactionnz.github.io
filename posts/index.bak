@@ -7,7 +7,7 @@ title: Posts
       <div class="col-lg-10 col-md-12 mx-auto">
 
         {% for post in paginator.posts %}
-<!--
+
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <h2 class="post-title">{{ post.title }}</h2>
@@ -24,24 +24,11 @@ title: Posts
             {{ site.author }}
             {% endif %}
             on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}</p>
-        </article>-->
+        </article>
         
 
+        <hr>
 
-        <h3>{{ post.title }}</h3>
-        {% if post.subtitle %}
-        <h4 class="subheading">{{ post.subtitle }}</h4>
-        {% endif %}
-        <span class="meta">Posted by
-          <a href="#">{% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %}</a>
-          on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
-          content=post.content %}</span>
-        
-        {{ content }}
-
-
-
-        
         {% endfor %}
 
         <!-- Pager -->

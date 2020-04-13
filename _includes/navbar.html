@@ -41,10 +41,10 @@
             {% endif %}
         {% endfor %}
         <!--The blog nav item is kept ouside the navigation data because we need a way of getting the url for the latest blog post. We can get it from liquid posts object
-        but it's not possible to next liquid inside liquid so we have to have item outside the data-->
+        but it's not possible to next liquid inside liquid so we have to have item outside the data
         <li class="nav-item {{ class }}">
             <a href="{{ site.posts.first.url | prepend: site.baseurl | replace: '//', '/' }}">Blog</a>
-        </li>
+        </li>-->
 
     </ul>
 
