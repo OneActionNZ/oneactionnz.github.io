@@ -1,0 +1,31 @@
+- category: General
+  visible: true
+  questions:
+    - id: 001
+      question: Is OneAction a political party?
+      answer: Not yet, OneAction is building towards being a political party but will only register as a party when we have enough support to take seats in parliament. See <a href="/Roadmap/">roadmap</a> for more info
+      visible: true
+    - id: 002
+      question: Isn’t it dangerous to have everyday people making decisions about the direction of the country?
+      answer: OneAction is building an online platform to allow kiwis to participate in setting the direction and the outcomes they want to see in Aotearoa New Zealand (“the what” and “the where”). Development of policy will be done by experts and community leaders, using the best available evidence. We’re <strong> not</strong> embarking on “direct democracy” project where policy decisions are made by non-experts based on their opinions. See <a href="/DigitalDemocracy/">digital democracy</a> for more info.
+      visible: true
+    - id: 003
+      question: Question 3 Text
+      answer: Answer 3 text
+      visible: false
+
+- category: Funding
+  visible: false 
+  questions:
+    - id: 004
+      question: Funding Question 1 Text
+      answer: Funding Answer 1 text
+      visible: true
+    - id: 005
+      question: Funding Question 2 Text
+      answer: Funding Answer 2 text
+      visible: true
+    - id: 006
+      question: Funding Question 3 Text
+      answer: Funding Answer 3 text
+      visible: true

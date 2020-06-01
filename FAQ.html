@@ -7,12 +7,48 @@ permalink: /FAQ/
 <section class="text-secondary text-left bg-white mb-5">
     <div class="container">
         <h3 class="display-4 text-secondary">FAQ</h3>
-        <h6 class="mb-2">Your questions answered:</h6>
+        <h6 class="mb-2">Frequently Asked Questions</h6>
         <div class="row">
-            <div class="col-lg-10 col-md-12 mx-auto">
-
-                
-           
+            <div class="col-lg-12 col-md-12 mx-auto">
+                <ul class="ml-auto">
+                    {% assign QandA = site.data.QandA %}
+                    {% for category in QandA %}
+                        {% if category.visible %}
+                            {% if category.questions %}
+                            <h3> {{ category.category }} </h3> 
+                                <section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
+                                    <div class="container">
+                                        {% for question in category.questions %}
+                                            {% if question.visible %}
+                                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                                    <div class="panel panel-default">
+                                                        <div class="panel-heading p-3 mb-3" role="tab" id="heading{{question.id}}">
+                                                            <h2 class="panel-title">
+                                                                <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse{{question.id}}" aria-expanded="true" aria-controls="collapse{{question.id}}">
+                                                                    {{question.question}}
+                                                                </a>
+                                                            </h2>
+                                                        </div>
+                                                        <div id="collapse{{question.id}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{question.id}}">
+                                                            <div class="panel-body px-3 mb-4">
+                                                                {{question.answer}}
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            {% endif %}
+                                        {% endfor %}
+                                    </div>
+                                </section>
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                    <!--The blog nav item is kept ouside the navigation data because we need a way of getting the url for the latest blog post. We can get it from liquid posts object
+                    but it's not possible to next liquid inside liquid so we have to have item outside the data
+                    <li class="nav-item {{ class }}">
+                        <a href="{{ site.posts.first.url | prepend: site.baseurl | replace: '//', '/' }}">Blog</a>
+                    </li>-->
+            
           </div>
         </div>
     </div>
