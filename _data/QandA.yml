@@ -7,7 +7,7 @@
       visible: true
     - id: 002
       question: Isn’t it dangerous to have everyday people making decisions about the government policy?
-      answer: OneAction is building an online platform to allow kiwis to participate in setting the direction and the outcomes they want to see in Aotearoa New Zealand (“the what” and “the where”). Development of policy will be done by experts and community leaders, using the best available evidence. We’re <strong> not</strong> embarking on “direct democracy” project where policy decisions are made by non-experts based on their opinions. See <a href="/DigitalDemocracy/">digital democracy</a> for more info.
+      answer: OneAction is building an online platform to allow kiwis to participate in setting the direction and the outcomes they want to see in Aotearoa New Zealand (“the what” and “the where”). Development of policy will be done by experts and community leaders, using the best available evidence. We’re <strong> not</strong> embarking on a “direct democracy” project where policy decisions are made by non-experts based on their opinions. See <a href="/DigitalDemocracy/">digital democracy</a> for more info.
       visible: true
     - id: 003
       question: Question 3 Text
