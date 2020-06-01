@@ -10,22 +10,26 @@
       answer: OneAction is building an online platform to allow kiwis to participate in setting the direction and the outcomes they want to see in Aotearoa New Zealand (“the what” and “the where”). Development of policy ("the how") will be done by experts and community leaders, using the best available evidence. We’re <strong> not</strong> embarking on a “direct democracy” project where policy decisions are made by non-experts based on their opinions. See <a href="/DigitalDemocracy/">digital democracy</a> for more info.
       visible: true
     - id: 003
-      question: Question 3 Text
-      answer: Answer 3 text
-      visible: false
+      question: Online democracy platform? What about security?
+      answer: Building a secure and trustworthy platform for democratic participation is a huge challenge and yes security is a big concern. No system can ever be guaranteed to be 100% secure, but this can’t be seen as a reason not to do something. Emerging technologies such as <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank">blockchain</a> which allow for tamper-proof transactions will likely be very useful, but make no mistake, it’s a huge challenge and there’s always some risk involved. It also presents and exciting opportunity for researchers and software developers to work on the cutting edge of eParticipation. Get in contact!
+      visible: true
+    - id: 004
+      question: Free membership? How are you going to fund OneAction?
+      answer: Once the <a href="/Join/">TallyUp</a> reaches 25,000 we will open for micro donations from members which will be used to fund OneAction. OneAction is wholly owned and funded by our members. No external influencers. No fat cats! <a href="/Funding/"”">Learn more about funding. <a>
+      visible: true
 
 - category: Funding
   visible: false 
   questions:
-    - id: 004
+    - id: 
       question: Funding Question 1 Text
       answer: Funding Answer 1 text
       visible: true
-    - id: 005
+    - id: 
       question: Funding Question 2 Text
       answer: Funding Answer 2 text
       visible: true
-    - id: 006
+    - id: 
       question: Funding Question 3 Text
       answer: Funding Answer 3 text
       visible: true

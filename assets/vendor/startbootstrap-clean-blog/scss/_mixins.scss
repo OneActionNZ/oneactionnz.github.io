@@ -66,3 +66,8 @@
 @mixin sans-serif-font() {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+@mixin lato-sans-serif-font() {
+  font-family: 'Lato', sans-serif;
+}
+
