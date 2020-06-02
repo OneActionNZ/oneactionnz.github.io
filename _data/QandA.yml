@@ -21,7 +21,15 @@
       question: Where are you on Social media!? You know it’s 2020 right!?
       answer: Social media platforms are private, profit-driven corporations. They have their place, but we’re doing our own thing. OneAction is 100% owned and operated by its community. We see ourselves as adjacent to social media, not contained within it. But that doesn’t mean you can’t use social media to tell your friends and whānau about us. OneAction never uses paid advertisement, we believe that our vision is big enough to carry itself by word of mouth
       visible: true
-
+    - id: 006
+      question: 200,000 members before you register as a party? Isn't that a bit unrealistic?
+      answer: 200,000 people is approximately 7.5% of the total voter turnout in the 2017 general election, so while it’s a big number, it’s still only just enough to get over the 5% margin. Unrealistic, perhaps, it’s certainly a lofty goal, but in my view most kiwis would like a bit more of a say in the direction of Aotearoa New Zealand. Of course, there will be plenty of people who prefer to stick to the traditional way of doing things, that’s fine, they’re not the ones we’re looking to assemble here. Are there 7.5% of us who want to try a new way of doing politics? I firmly believe so
+      visible: true
+    - id: 007
+      question: Where are your polices? What does OneAction actually do?
+      answer: Because we’re starting from the ground up without big funders. We need to work through several stages to build up the organisation. The purpose of OneAction is to give our members a voice and then turn that voice into policy. Once we have 150,000 members (quorum stage) policy will be built based on input from the membership via the online digital democracy platform. See <a href="/Roadmap/">roadmap</a> for more info
+      visible: true
+      
 - category: Funding
   visible: false 
   questions:

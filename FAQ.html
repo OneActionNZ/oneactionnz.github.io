@@ -16,7 +16,7 @@ permalink: /FAQ/
                     {% for category in QandA %}
                         {% if category.visible %}
                             {% if category.questions %}
-                            <h3> {{ category.category }} </h3> 
+                            <h5> {{ category.category }} </h5> 
                                 <section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
                                     <div class="container">
                                         {% for question in category.questions %}
