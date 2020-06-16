@@ -11,7 +11,7 @@
       visible: true
     - id: 003
       question: Online democracy platform? What about security?
-      answer: Building a secure and trustworthy platform for democratic participation is a huge challenge and yes security is a big concern. No system can ever be guaranteed to be 100% secure, but this can’t be seen as a reason not to do something. Emerging technologies such as <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank">blockchain</a> which allow for tamper-proof transactions will likely be very useful, but make no mistake, it’s a huge challenge and there’s always some risk involved. It also presents and exciting opportunity for researchers and software developers to work on the cutting edge of eParticipation. Get in contact!
+      answer: Building a secure and trustworthy platform for online democratic participation is a huge challenge, and yes security is a big part of that, but it can be done, and emerging technologies such as <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank">blockchain</a> which allow for tamper-proof transactions will likely be very useful. but make no mistake, it’s a huge challenge and there’s always some risk involved with innovation. But it also presents an exciting opportunity for researchers and software developers to work on the cutting edge of eParticipation and deliberative democracy. Get in contact!
       visible: true
     - id: 004
       question: Free membership? How are you going to fund OneAction?
