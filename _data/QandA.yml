@@ -9,6 +9,7 @@
       question: Isn’t it dangerous to have everyday people making decisions about the government policy?
       answer: OneAction is building an online platform to allow kiwis to participate in setting the direction and the outcomes they want to see in Aotearoa New Zealand (“the what” and “the where”). Development of policy ("the how") will be done by experts and community leaders, using the best available evidence. We’re <strong> not</strong> embarking on a “direct democracy” project where policy decisions are made by non-experts based on their opinions. See <a href="/DigitalDemocracy/">digital democracy</a> for more info.
       visible: true
+
     - id: 003
       question: Online democracy platform? What about security?
       answer: Building a secure and trustworthy platform for online democratic participation is a huge challenge, and yes security is a big part of that, but it can be done, and emerging technologies such as <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank">blockchain</a> which allow for tamper-proof transactions will likely be very useful. but make no mistake, it’s a huge challenge and there’s always some risk involved with innovation. But it also presents an exciting opportunity for researchers and software developers to work on the cutting edge of eParticipation and deliberative democracy. Get in contact!
@@ -29,6 +30,20 @@
       question: Where are your polices? What does OneAction actually do?
       answer: Because we’re starting from the ground up without big funders. We need to work through several stages to build up the organisation. The purpose of OneAction is to give our members a voice and then turn that voice into policy. Once we have 150,000 members (quorum stage) policy will be built based on input from the membership via the online digital democracy platform. See <a href="/Roadmap/">roadmap</a> for more info
       visible: true
+    - id: 008
+      question: Why use email for the TallyUp? Isn’t that a bit oldschool?
+      answer: Yeah it is and that's kinda the idea, email is the most universal and accessible form of internet communication. It’s also cheap to set up and run which is required to start OneAction on a shoestring (i.e. no fat cat donors!)
+      visible: true
+    - id: 009
+      question: What about the digital divide? Not everyone has internet access or knows how to use the internet. Aren’t you being a bit exclusive?
+      answer: "While internet access and usage in Aotearoa New Zealand is already very high, this is an issue, but it’s important to remember that the current methods for people to participate and have their voice heard aren’t that great, so OneAction will improve the situation, rather than make it worse. We have three key responses to the digital divide: 
+      <ul>
+        <li>Our vision is to give anyone with a $50 smart phone a voice in the decisions which shape Aotearoa New Zealand, and we think that’s pretty powerful. </li> 
+        <li>We will create a network of volunteer ‘buddies’ to help people who don’t have internet knowledge or access </li> 
+        <li>As time passes, OneAction will grow and the digital divide will shrink. We feel that now is the time to embark on this journey, rather than waiting for the perfect conditions 
+      </ul>"
+      visible: true  
+      
       
 - category: Funding
   visible: false 
