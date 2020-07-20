@@ -31,8 +31,9 @@ h1.rg-pagetitle {
   font-family: 'Lato', sans-serif;
   font-size: 1.0rem;
 }
-//For FAQ 
 
+
+//For FAQ page
 .accordion-section .panel-default > .panel-heading {
     border: 0;
     background: #f4f4f4;
@@ -65,8 +66,9 @@ h1.rg-pagetitle {
    
 }
 
-.panel-body a {
-  font-weight: bold;
+.panel-heading a {
+    color: $OADark;
+
   
 }
 
