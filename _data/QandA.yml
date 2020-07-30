@@ -43,7 +43,10 @@
         <li>As time passes, OneAction will grow and the digital divide will shrink. We feel that now is the time to embark on this journey, rather than waiting for the perfect conditions 
       </ul>"
       visible: true  
-      
+    - id: 010
+      question: SPELL CHECK-What if the rich and greedy join OneAction and dominate like they do in current systems
+      answer: There just aren't that many super  wealthy people and because they only get the same amount of say as everyone, this won't be a problem. A political co-op is imcompatable with inequality
+      visible: false        
       
 - category: Funding
   visible: false 
