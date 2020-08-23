@@ -16,11 +16,6 @@ hr.rg-hr-white {
     font-weight: 600;
   }
 
-  .carousel-inner {
-    height: 50vh;
-    min-height: 1800px;
-}
-
   .font-lato {
     font-family: 'Lato', sans-serif;
 
@@ -30,6 +25,22 @@ hr.rg-hr-white {
 h1.rg-pagetitle {
   font-family: 'Lato', sans-serif;
   font-size: 1.0rem;
+}
+
+
+
+//Additional Backgrounds
+.bg-blue {
+  background-color: $OABlue !important;
+
+}
+
+.bg-green {
+  background-color: $OAGreen !important;
+}
+
+.bg-black {
+  background-color: #000000 !important;
 }
 
 
@@ -72,10 +83,8 @@ h1.rg-pagetitle {
   
 }
 
-/* h2.accordion {
-  font-family: 'Lato', sans-serif;
-  font-weight: 100;
-  font-size: 2.5rem;
-  color: #be2d7d;
-  text-transform: uppercase;
-} */
+.MaxHeight{
+  height: 100vh;
+}
+
+
