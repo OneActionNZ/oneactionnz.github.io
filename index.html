@@ -18,10 +18,15 @@ title: Political Co-operative
         </div>
 
 </section>-->
+
 <!--Check if splash should be displayed-->
-
-
-  
+<script src="{{"/assets/vendor/cookie/js.cookie.min.js" | relative_url }}"></script>
+  <script>
+        if(!Cookies.get('LandingDone'))
+        {
+            window.location = "/Landing/"; 
+        }
+  </script>
 
 
 <section class="text-secondary pt-3" id="Introduction">

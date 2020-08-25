@@ -28,6 +28,16 @@ h1.rg-pagetitle {
 }
 
 
+//Landing carousel 
+.carousel-item{
+  height: 200px;
+}
+
+@media (max-width: 570px) {
+  .carousel-item{
+    height: 350px;
+  }
+}
 
 //Additional Backgrounds
 .bg-blue {

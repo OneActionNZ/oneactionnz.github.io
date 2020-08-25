@@ -4,6 +4,12 @@ title: Political Co-operative
 permalink: /Landing/
 ---
 
+<!--Check if splash should be displayed-->
+<script src="{{"/assets/vendor/cookie/js.cookie.min.js" | relative_url }}"></script>
+  <script>
+                Cookies.set('LandingDone', '1', { expires: 7});
+  </script>
+
 <section class="text-white bg-black MaxHeight" id="Slides">
     <div class="container-fluid h-25">
         <div class="row h-50 justify-content-center">
@@ -16,101 +22,91 @@ permalink: /Landing/
     <div class="container-fluid h-50">  
         <div class="row h-50 justify-content-center">
             <div class="col-lg-6 text-white">
-                <div id="carouselExampleInterval" class="carousel slide carousel-fade" data-ride="carousel" data-interval="600000">
+                <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel" data-wrap="false" data-interval="600000"> <!--data-wrap="false"-->
                     <div class="carousel-inner">
 
                         <div class="carousel-item active">
-                            <h4 class='text-left'>Politcs as we know it has taken us as far as it can...</h4>
+
+                            <h4 class='text-left'>Kia ora Aotearoa, Nau mai | Welcome to</h4>
+                            
+                            <h3 class='text-center text-oabold'>One Action</h3>
+                            <h4 class='text-center text-oabold'>Political Co-operative</h4>
+                        </div>
+                        <div class="carousel-item">
+                            <h4 class='text-left'>Politics  as we know it, has taken us as far as it can</h4>
+                            <p class='text-center'>The traditional party model is broken</p>
                         </div>
                         
                         <div class="carousel-item">
-                            <h4 class='text-left'>The traditional party model is broken...</h4>
-                            <p class='text-center'>Traditional parties are focused on getting your vote, not on giving you a voice...</p>
-                        </div>
-                        <div class="carousel-item">
+                            <p class='text-left'>Traditional parties are focused on getting our vote, not on giving us a voice...</p>
                             <p class='text-center'>...they have an incentive to create division, not unity...</p>
                         </div>
-                        
                         <div class="carousel-item">
-                            <p class='text-center'>...short-term thinking thrives where gaining power is the number one priority</p>
+                            <p class='text-left'>Short-term thinking thrives where getting power is the #1 priority</p>
+                            <p class='text-center'>Policy decisions are based on votes not vision, bold ideas are too politically risky...</p>
                         </div>
                         <div class="carousel-item">
-                            <p class='text-center'>Policy decisions based on votes not vision, bold ideas too politically risky...</p>
-                        </div>
-
-                        <div class="carousel-item">
-                            <p class='text-center'>...soundbites, scandels, lolly scrambles</p>
+                            <p class='text-left'>...soundbites, scandals, lolly scrambles...</p>
+                            <p class='text-center'>...media frenzy, spin doctors, point scoring and dirt digging</p>
                         </div>
                         <div class="carousel-item">
-                            <p class='text-center'>Media frenzy, branding, spin, point scoring and dirt digging</p>
+                            <h4 class='text-center'>You don't need to look very far to see that democracy is at risk</h4>
                         </div>
                         <div class="carousel-item">
-                            <h3 class='text-left'><span class="text-oabold">Aotearoa,</span> we need to <span class="text-oabold">move things forward</span></h3>
-                        </div>
-                        <div class="carousel-item">
-                            <p class='text-center'>You don't need too look far to see that democracy is at risk</p>
+                            <p class='text-left'><span class="text-oabold">Aotearoa,</span> we need a better way of doing politics...</span></p>
+                            <p class='text-center'>...that <span class="text-oabold">shifts power</span> from the few to the many</p>
                         </div>
                         <div class="carousel-item">
                             <h3 class='text-center text-oabold'>OneAction</h3>
-                            <h4 class='text-center text-oabold'>is a Politcal Co-operateive...</h4>
+                            <p class="text-center" >is a</p> 
+                            <h4 class='text-center text-oabold'>Political Co-operative</h4>
                         </div>
                         <div class="carousel-item">
-                            <p class='text-center'>We exist to give everday kiwis a <span class="text-oabold">voice</span> in the decisions that shape Aotearoa...</p>
+                            <p class='text-center'>We're building a new way of doing politics to give everyday kiwis<span class="text-oabold"> a say</span> in the decisions that <span class="text-oabold">shape Aotearoa...</span></p>
                         </div>
 
                         <div class="carousel-item">
-                            <p class='text-center'>...by building a <span class="text-oabold">digital democracy</span> platform...</p>
+                            <p class='text-left'>We're building a <span class="text-oabold">digital democracy</span> platform...</p>
+                            <p class='text-center'>...where our members contribute the values that go into building our policy</p>
                         </div>  
                         <div class="carousel-item">
-                            <p class='text-center'>where our memebers share the views and values that go into building policy</p>
-                        </div> 
-                        <div class="carousel-item">
-                            <p class='text-center'><span class="text-oabold">OneAction</span> is looking for kiwi's who want to embark on a new kind of of politics</span></p>
+                            <p class='text-left'>We're talking about participation at <span class="text-oabold">massive scale</span>... by anyone with a $50 smartphone...</p>
+                            <p class='text-center'>...we're talking about rewriting the rules of politics, <span class="text-oabold">for people</span></p>
                         </div>
                         <div class="carousel-item">
-                            <p class='text-center'>Once 25,000 people support the idea, we'll move into start-up stage...</span></p>
+                            <p class='text-left'><span class="text-oabold">OneAction</span> is a grassroots movement starting from zero</p>
+                            <p class='text-center'>At this early stage, we're just looking for people to register their support for the idea, and share the idea. If there's enough of us, we'll be able to get this off the ground...</span></p>
                         </div>
                         <div class="carousel-item">
-                            <h3 class='text-left text-oabold'>Will you support?</h3>
-                            <a href="{{site.data.urls.join}}">Yes, I'll join</a><br>
-                            <a href="{{site.data.urls.home}}">Tell me more</a></br>
-                            <a href="{{site.data.urls.nothanks}}">Not for me</a>
-
+                            <h4 class='text-left text-oabold'>Keen to get onbaord?</h4>
+                            <a href="{{site.data.urls.join}}" onclick="gtag('event', 'Click', {  'event_category' : 'Landing',  'event_label' : 'Join'});" >Yep, I'll register my support</a><br>
+                            <a href="{{site.data.urls.home}}" onclick="gtag('event', 'Click', {  'event_category' : 'Landing',  'event_label' : 'TellMeMore'});">Maybe, tell me more</a></br>
+                            <a href="{{site.data.urls.nothanks}}" onclick="gtag('event', 'Click', {  'event_category' : 'Landing',  'event_label' : 'NoThanks'});">Na, not for me, politics is fine as it is</a>
                         </div>
-                        
-
                     </div>
-
                   </div>
             </div>
+        </div>
+    </div>
+    
+    <div class="container-fluid h-25">  
+        <div class="row justify-content-center">
+                <div class="col-md-6 mt-5">
+                    <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">Prev </a>
+                    <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-slide="next">Next</a>
+                </div>
 
         </div>
 
         <div class="row justify-content-center">
-                <div class="col-md-6 text-oabold mt-5">
-                    <a class="carousel-control-prev mt-5" href="#carouselExampleInterval" role="button" data-slide="prev">
-                    Prev
-                      </a>
-                      <a class="carousel-control-next mt-5" href="#carouselExampleInterval" role="button" data-slide="next">
-                    Next  </a>
+                <div class="col-md-6 text-center">
+                    <a class="text-white " href="{{site.data.urls.home}}" onclick="gtag('event', 'Click', {  'event_category' : 'Landing',  'event_label' : 'SkipIntro'});"><sub><u>Skip intro</sub></u></a>
                 </div>
+
         </div>
 
     </div>
 
+
+
 </section>
-
-
-<!--
-<section class="text-white pt-3 bg-secondary"  id="Introduction">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-md-10 mx-auto">
-                <h3>dsfsf</h3>
-                <p>sfdsfsdgdg</p>
-            </div>
-        </div>
-    </div>
-</section>
-
--->
