@@ -1,8 +1,12 @@
 - title: Home
   url: /
+- title: Intro
+  url: /Intro/
 - title: Explore
   url:
   sublinks:
+    - title: Intro
+      url: /Intro/
     - title: Constitution
       url: /Constitution/
     - title: Digital Democracy
