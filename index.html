@@ -33,11 +33,12 @@ title: Democracy Co-operative
         <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-10 mt-3">
-
+                <h3 class="text-left">Latest Post</h3>
+                <hr>
                 {% assign post = site.posts.first %}
                 <article class="post-preview">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                    <h3 class="text-secondary">{{ post.title }}</h3>
+                    <h4 class="text-secondary">{{ post.title }}</h4>
                 </a>
                     {% if post.subtitle %}
                     <h4 class="post-subtitle">{{ post.subtitle }}</h4>
