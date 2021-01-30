@@ -36,9 +36,16 @@
                     </div>
                 </li>
             {% else %}
+                {% if link.url contains "http" %}
+                    <li class="nav-item {{ class }}">
+                        <a class="nav-link" href="{{ link.url }}"  {% if link.target %} target="{{ link.target }}"{% endif %} >{{ link.title }}</a>
+                    </li>
+                {% else %}
                 <li class="nav-item {{ class }}">
-                    <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                    <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" {% if link.target %} target="{{ link.target }}"{% endif %}>{{ link.title }}</a>
                 </li>
+                {% endif %}
+
             {% endif %}
         {% endfor %}
         <!--The blog nav item is kept ouside the navigation data because we need a way of getting the url for the latest blog post. We can get it from liquid posts object

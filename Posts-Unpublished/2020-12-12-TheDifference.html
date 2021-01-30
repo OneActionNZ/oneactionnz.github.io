@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "What's the difference?"
+subtitle:
+author: Rhys Goodwin
+date: 2020-12-12 12:00:00 +1200
+
+cards:
+  - card:
+      type: traditional
+      body: Gets power from the people
+  - card:
+      type: democracycoop
+      body: Gives power to the people
+  - card:
+      type: traditional
+      body: Primary source of votes is from the public
+  - card:
+      type: democracycoop
+      body: Primary source of votes is from the co-op membership
+  - card:
+      type: traditional
+      body: Money comes from various sources including corporations and wealthy individuals
+  - card:
+      type: democracycoop
+      body: Money only from comes from the members and donations are capped at a maximum monthly limit, per member (Read More)  
+  - card:
+      type: traditional
+      body: Goes into an election not knowing if or how many seats will be won
+  - card:
+      type: democracycoop
+      body: Money comes from various sources including corporations and wealthy individuals
+  - card:
+      type: traditional
+      body: Main goal is to win elections by appealing to as many people as possible
+  - card:
+      type: democracycoop
+      body: Main goal is to give ordinary kiwi’s a voice in the decisions that shape Aotearoa
+  - card:
+      type: traditional
+      body: In a Traditional party getting your voice heard and having a impact on policy requires a big commitment to get invovled
+  - card:
+      type: democracycoop
+      body: In a democracy co-op it's quick and easy to share what's important to you, and that's what goes into building policy.
+---
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+
+  <div class="carousel-inner">
+    {% assign active = true %}
+    {% for crd in page.cards %}
+      <div class="carousel-item {% if active == true %} active {% endif %}" >
+        {% assign active = false %}
+        <div class="container-fluid">
+          <div class="row justify-content">
+            <div class="col-12 pt-3 pb-5 px-5 text-white text-center {% if crd.card.type == "democracycoop" %} bg-secondary {% else %} bg-primary {% endif %}">
+      
+              {% if crd.card.type == "traditional" %}
+                <h4>Traditional Party </h4> 
+                <br>
+                <p>{{crd.card.body}} </p>
+
+              {% else %}
+                <h4>Democracy Co-op </h4>
+                <br>
+                <p>{{crd.card.body}} </p>
+
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">Prev </a>
+    <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-slide="next">Next</a>
+  </div>
+</div>

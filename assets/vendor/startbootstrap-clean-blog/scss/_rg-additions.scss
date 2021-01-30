@@ -29,12 +29,12 @@ h1.rg-pagetitle {
 
 
 //Landing carousel 
-.carousel-item{
+.landing-carousel-item{
   height: 200px;
 }
 
 @media (max-width: 570px) {
-  .carousel-item{
+  .landing-carousel-item{
     height: 350px;
   }
 }
