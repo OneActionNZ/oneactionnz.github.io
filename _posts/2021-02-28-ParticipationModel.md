@@ -42,9 +42,9 @@ The third tier: Focus, places participants into autonomous groups which work to 
 
 
 ##### Policy Development
-It’s important to note that the above processes are all about determining the co-ops values, what outcomes they want and the direction they want Aotearoa to head. It’s about where we’re going, as opposed to how we get there. The ‘how we get there’ part is where the policy framework comes in. 
+It’s important to note that the above processes are all about determining the co-op's values, what outcomes they want and the direction they want Aotearoa to head. It’s about where we’re going, as opposed to how we get there. The ‘how we get there’ part is where the policy framework comes in. 
 
-The outputs from the **My2¢** and Focus process are fed into the policy framework where an expert team works to produce an evidence-based policy. The policy articulates the intended outcomes, measures, risks, etc. The policy then goes through a feedback process to refine it, where the aim is to reach a high level of acceptance. Finally, the co-op votes to accept or reject the policy (or perhaps send it back for re-work). A super-majority of 75% is required to pass the policy. 
+The outputs from the **My2¢** and **Focus** processes are fed into the policy framework where an expert team works to produce an evidence-based policy. The policy articulates the intended outcomes, measures, risks, etc. The policy then goes through a feedback process to refine it, where the aim is to reach a high level of acceptance. Finally, the co-op votes to accept or reject the policy (or perhaps send it back for re-work). A super-majority of 75% is required to pass the policy. 
 
 The content and structure for the topics explored in **My2¢** and **Focus** are built on content packs which provide balanced information on the different aspects of the issue/topic. This could include educational material such as real-life experience interviews, expert input, online debates, readings, summary of the key arguments and analysis of value intersections.  These content packs are developed using a specific structure that is designed to work inside the OneAction participation platform. Content packs must fully cover the arguments. That is, developing content packs requires collaboration between people with different views to ensure balance. 
 
