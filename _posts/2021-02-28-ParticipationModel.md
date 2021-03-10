@@ -37,7 +37,7 @@ The second tier: **My2¢**, is a guided process whereby members express their vi
 
 ##### Focus
 ###### Monthly time commitment: 30-90 mins
-The third tier: Focus, places participants into autonomous groups which work to build consensus on a topic or issue. At their disposal they have a content pack which outlines the issue and the evidence around it. They also have access to the data from the **My2¢** process. The group operates on a set timeline (e.g., over a 6-month period) and follows a set structure to produce an output in the form of an ‘outcome statement’. The process includes discussions and activities using forums, and or video chat, and other online tools. Safety mechanisms are built into the process so the group can be dissolved, mediated, or expanded. Many groups operate in parallel and may be presented to by experts, community groups or people with on-the-ground experience, to help inform their deliberation. 
+The third tier: **Focus**, places participants into autonomous groups which work to build consensus on a topic or issue. At their disposal they have a content pack which outlines the issue and the evidence around it. They also have access to the data from the **My2¢** process. The group operates on a set timeline (e.g., over a 6-month period) and follows a set structure to produce an output in the form of an ‘outcome statement’. The process includes discussions and activities using forums, and or video chat, and other online tools. Safety mechanisms are built into the process so the group can be dissolved, mediated, or expanded. Many groups operate in parallel and may be presented to by experts, community groups or people with on-the-ground experience, to help inform their deliberation. 
 
 
 
