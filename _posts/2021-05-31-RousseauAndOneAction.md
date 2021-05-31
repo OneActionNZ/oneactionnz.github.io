@@ -31,7 +31,7 @@ Another of Rousseau’s points which struck me was this:
 
 Isn’t this true under our current stale political party model? We can easily transfer our political power through our vote to a representative, but our will gets distorted. 
 
-In a democracy co-op like OneAction, representatives don’t have the burden of having to constantly try and guess what the people want and stress about capturing votes. Instead, they work for the Co-op. The members of the Co-op use their political power (their vote) to put the representative in Parliament, but they don’t abandon their power to the representative. It’s Bottom-up by definition. 
+In a democracy co-op like OneAction, representatives don’t have the burden of having to constantly try and guess what the people want and stress about capturing votes. Instead, they work for the Co-op. The members of the Co-op use their political power (their vote) to put the representative in Parliament, but they don’t abandon their power to the representative. It’s bottom-up by definition. 
 
 I don’t want you to think I’m in la la land and that people are all going to magically agree on everything. I don’t think that. Actually, the whole point is that we’ll never be able to agree on a lot of things. So we should spend less energy on the stuff we disagree on and more on trying to uncover and get better at the things we do agree on. If we can soften our hearts a little, we could talk more about what we want and less about who’s right and wrong. We could come together as people with diverse views and discuss things constructively. It’s got to be better than what we’re doing now. 
 
