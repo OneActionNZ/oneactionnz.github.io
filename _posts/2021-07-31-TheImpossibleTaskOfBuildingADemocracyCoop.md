@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Impossible task of building a Democracy Co-op
+title:  The Impossible Task of Building a Democracy Co-op
 subtitle:
 author: Rhys Goodwin
 date:   2021-07-31 15:00:00 +1200
