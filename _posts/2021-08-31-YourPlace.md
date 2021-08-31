@@ -28,7 +28,7 @@ Coming back to the original challenge – to think about your place in Aotearoa 
 That’s exactly what OneAction is setting out to build. Even if you still don’t think you’d have time to participate, do you at least support the idea that the direction of this country should be set by its people? At this stage that’s all we’re looking for.  We’re just looking for people to put their hand up and say ‘yep, that’s a good idea, we should build something like that’. You can show your support for the idea by joining the monthly <a href="{{site.data.urls.join}}">TallyUp</a>. Once there’s enough of us, we’ll get to building. 
 
 
-Ngā mihi 
+Ngā mihi  
 Rhys
 
 To share this post by email, click <a target="_new" href="mailto:?subject=OneAction Democracy Co-op&body=Hey, you might be interested in this: https://oneaction.nz">**here**</a>.
