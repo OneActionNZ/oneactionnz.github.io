@@ -15,7 +15,7 @@ github_username:   OneActionNZ
 facebook_username: OneActionNZ
 
 # Build settings
-future:            true #Build posts set in the future
+future:            false #Build posts set in the future
 markdown:          kramdown
 paginate:          5
 paginate_path:     "/posts/page:num/"
