@@ -10,9 +10,9 @@ Kia ora folks,
 
 I’ve been thinking a lot lately about the purpose of political parties. What *should* a political party look like, what *should* it do? Given that democracy is all about the will of the people and the kind of community we want, the best answer I can give is that the *primary* purpose of a political party is to connect people to political decisions.
 
-In reading over the constitutions of the presently registered political parties it’s interesting to note that none of them state their primary purpose as being to empower New Zealanders. 
+In reading over the constitutions of our 15 presently registered political parties it’s interesting to note that none of them state empowing New Zealanders as their main goal.
 
-This is the OneAction’s purpose statement (<a href="/Downloads/OneAction - Constitution v2.3a - Published.pdf" target="_blank" onclick="gtag('event', 'Click', {  'event_category' : 'PDF Download',  'event_label' : 'Constitution'});" >OneAction Constitution</a>):
+This is the OneAction purpose statement (<a href="/Downloads/OneAction - Constitution v2.3a - Published.pdf" target="_blank" onclick="gtag('event', 'Click', {  'event_category' : 'PDF Download',  'event_label' : 'Constitution'});" >OneAction Constitution</a>):
 
 *"OneAction is a member-driven political organisation which, through participatory processes, exists to give its members a voice in the decisions which shape Aotearoa New Zealand, and to enact that voice by being elected to parliament by its members."*
 {: style="color: #C25000; font-size: 120%; text-align: center;"}
