@@ -8,7 +8,6 @@ url:               "https://oneaction.nz"
 
 # set timezone
 timezone:           "Pacific/Auckland"
-future: true 
 
 # Social Profiles
 twitter_username:  OneActionNZ
