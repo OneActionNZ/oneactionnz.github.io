@@ -6,7 +6,7 @@ author: Rhys Goodwin
 date:   2022-08-31 00:00:00 +1200
 ---
 
-A message to members.
+A message to members,
 
 I find it remarkable that each month you are willing to spare some of your valuable time and energy to <a href="{{site.data.urls.join}}">TallyUp™</a> and I’m extremely grateful for it. Now you could argue that it’s not that much effort – *Reply, Send* – just a few clicks. But it’s not nothing. It says to me, that at least to some extent, you agree that we should build better ways of doing politics and you believe in this project. In this early stage while things are going slowly the cadence of the TallyUp provides a fuel for the project. You could think of it as the first cells of this organisation’s heart starting to beat. And it keeps me going despite often feeling that the task at hand is insurmountable.
 
