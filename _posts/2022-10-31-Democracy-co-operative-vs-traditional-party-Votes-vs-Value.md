@@ -22,7 +22,7 @@ So, how is our Democracy Co-operative model fundamentally different? Our purpose
 *"OneAction is a member-driven political organisation which, through participatory processes, exists to give its members a voice in the decisions which shape Aotearoa New Zealand, and to enact that voice by being elected to parliament by its members."*
 {: style="color: #C25000; font-size: 120%; text-align: center;"}
 
-When I was growing up in Taupo my parents owned a computer business and my dad gave me a valuable guiding principle of business which has been a reoccurring theme in my life in various ways:
+When I was growing up in Taupō my parents owned a computer business and my dad gave me a valuable guiding principle of business which has been a reoccurring theme in my life in various ways:
 
 *To be successful in business, don’t focus on money and how you can get it from your customers, rather, focus on providing the best value, the best product, the best service etc. Money will be the by-product of that.*  – Thanks Dad ❤️
 
