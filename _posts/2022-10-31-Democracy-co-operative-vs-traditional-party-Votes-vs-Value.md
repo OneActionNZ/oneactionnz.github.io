@@ -9,7 +9,7 @@ date:   2022-10-31 00:00:00 +1200
 
 Kia ora folks,
 
-In this series of posts, I’m hoping to explain how a Democracy Co-op like OneAction is fundamentally different to a traditional political party and why it’s worth building. In the [last post](/2022/09/30/Democracy-co-operative-vs-traditional-party-who-carries-the-load-copy.html) I showed that in a Democracy Co-op, decisions are collectively made and collectively owned, whereas in traditional parties all responsibility rests on the shoulders of politicians, leading to finger pointing and a whole lot of spin, instead of open honest dialog. In this post I look at where political parties focus their energy and question the value they bring to citizens. 
+In this series of posts, I’m hoping to explain how a Democracy Co-op like OneAction is fundamentally different to a traditional political party and why it’s worth building. In the [last post](/2022/09/30/Democracy-co-operative-vs-traditional-party-who-carries-the-load-copy.html) I showed that in a Democracy Co-op, decisions are collectively made and collectively owned, whereas in traditional parties all responsibility rests on the shoulders of politicians, leading to finger pointing and a whole lot of spin, instead of open honest dialogue. In this post I look at where political parties focus their energy and question the value they bring to citizens. 
 
 [A few months ago](/2022/05/31/Whats_the_point_of_parties.html), I argued that the primary purpose of a political party is (should be) to connect people to political decisions. So, to what extent do our current line-up of parties do that? Cast your mind over the parties which you might support or might vote for. What do you feel their focus is? Do they exist to distribute political power to citizens? Or is their own agenda front and centre? Are they primarily concerned with *giving* something of value (political power) to you, or *getting* something from you (your vote)? 
 
@@ -28,7 +28,7 @@ When I was growing up in Taupō my parents owned a computer business and my dad 
 
 This theme can also be applied to political parties in our system of representative democracy. Perhaps it’s yet to be proven, but it follows that if a party provides value, then votes are the natural by-product.
 
-A Democracy Co-op relies on votes from its members. The very same group of people who set the co-op’s policy by working collaboratively with each other to find common groound – even when we come with very different perspectives. What this means is that we never need to expend any energy on campaigning for votes or spinning sound bites. We don’t seek votes for the sake of votes. Votes are the by product, the measure of the value we provide. 
+A Democracy Co-op relies on votes from its members. The very same group of people who set the co-op’s policy by working collaboratively with each other to find common ground – even when we come with very different perspectives. What this means is that we never need to expend any energy on campaigning for votes or spinning sound bites. We don’t seek votes for the sake of votes. Votes are the by product, the measure of the value we provide. 
 
 This diagram illustrates the difference in flow of votes and political power between a Democracy Co-op and a traditional party.  
    
