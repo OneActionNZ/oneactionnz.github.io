@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Democracy Co-operative vs. traditional party
+title:  Democracy Co-operative vs. Traditional Party - Part 2
 subtitle: Votes vs. Value
 author: Rhys Goodwin
 date:   2022-10-31 00:00:00 +1200

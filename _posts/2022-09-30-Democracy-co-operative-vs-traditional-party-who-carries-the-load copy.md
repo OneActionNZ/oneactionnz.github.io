@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Democracy Co-operative vs. traditional party
+title:  Democracy Co-operative vs. Traditional Party - Part 1
 subtitle: Who carries the load?
 author: Rhys Goodwin
 date:   2022-09-30 00:00:00 +1200
