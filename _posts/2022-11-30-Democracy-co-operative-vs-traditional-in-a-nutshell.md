@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Democracy Co-op vs Traditional Parties
+title:  Democracy Co-op vs. Traditional Parties 
 subtitle: In a nutshell
 author: Rhys Goodwin
 date:   2022-11-30 00:00:00 +1200
@@ -18,7 +18,7 @@ For those without the time or inclination to read my previous ramblings, in this
 -	Spending is not transparent
 
 ###### Democracy Co-op
--	Micro-donations are only allowed from individual members. 
+-	Micro-donations are only allowed from individual members 
 -	A monthly cap on donations ensures one member can’t donate disproportionally more than another
 -	Growing funding relies on growing the membership base 
 -	Money in and money out is completely transparent and published online for members and the public to see
@@ -60,7 +60,7 @@ Give political power to our members.
 -	Better politics.
 -	Less bullshit.
 
-I hope you’ll agree the Democracy Co-op model is a better way to do politics in the country you care deeply about. All we need to do now is build it. I hope you’ll consider showing your support by joining [here]({{site.data.urls.join}}). And if you’re already a member, see if you can rustle up a few friends to support this idea. After all, democracy is all about the numbers. Also, it takes less than 2 minutes a month to get behind this project. 
+I hope you’ll agree that the Democracy Co-op model is a better way to do politics in the country you care deeply about. All we need to do now is build it. I hope you’ll consider showing your support by joining [here]({{site.data.urls.join}}). And if you’re already a member, see if you can rustle up a few friends to support this idea. After all, democracy is all about the numbers. Also, it takes less than 2 minutes a month to get behind this project. 
 
 Ngā mihi   
 Rhys
