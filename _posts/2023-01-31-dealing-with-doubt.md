@@ -25,7 +25,7 @@ Finally, I sometimes wonder, have humans simply reached our limits in terms of p
 ##### Conclusion
 In short, yes there is a problem to solve, yes there is unrealised potential, and yes we can do it. The project is worthwhile. Keep going. Don’t give up.
 
-You can support the ideas OneAction is presenting by joining the monthly [TallyUp™]({{site.data.urls.join}}). It takes less than two minutes per month. Once enough people support the idea (as indicated by the TallyUp), we’ll move to the next stage).
+You can support the ideas OneAction is presenting by joining the monthly [TallyUp™]({{site.data.urls.join}}). It takes less than two minutes per month. Once enough people support the idea (as indicated by the TallyUp), we’ll move to the next stage.
 
 Ngā mihi nui   
 Rhys
