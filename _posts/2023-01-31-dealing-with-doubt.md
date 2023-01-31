@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dealing with Doubt
+title:  Dealing with doubt
 author: Rhys Goodwin
 date:   2023-01-31 00:00:00 +1200
 ---
