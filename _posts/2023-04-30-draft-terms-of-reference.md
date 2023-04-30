@@ -11,8 +11,9 @@ This month I’m excited to introduce our first official collaboration project w
 While the OneAction project has served as a concept model and structure for my initial ideas, as we begin to solidify a team the intention is that we start from the beginning and build something together, drawing on what's useful in this initial concept project and discarding the rest. The ToR is to get us started on that journey. 
 
 While I was preparing the TallyUp this month I was thinking about what makes this project so difficult, and I made a short video to share some thoughts. 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RmMK39s_CYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <div class="embed-responsive embed-responsive-16by9">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RmMK39s_CYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Folks, democracy needs us, the terrible state of politics today needs us, New Zealand needs us. I dare you to imagine a better way of doing politics and how you could be part of making that happen. Is it not important work? 
 
