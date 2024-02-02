@@ -1,0 +1,100 @@
+---
+layout: page
+title: Democracy Co-operative
+---
+<!--
+<section class="text-secondary bg-white mb-4" id="aims">
+        
+        <div class="row">
+            <div class="col-lg m-3 p-3 border border-primary">
+                <span>To revolutionise politics in New Zealand by creating a new kind of political party and a digital democracy platform which allows ordinary New Zealanders to participate in setting the direction of our country</span>
+            </div>
+            <div class="col-lg m-3 p-3 border border-primary">
+                <span> To make New Zealand the foremost leader in democracy with the highest per capita level of genuine participation in the world by growing our membership to at least 500,000 people by July 2029</span>
+            </div>
+            <div class="col-lg m-3 p-3 border border-primary">
+                <span> To reset the tone of parliament, replacing petty oppositional politics with a culture of reverence for the house and an attitude of collaboration and respect which sees all our leaders working together for New Zealand regardless of their party</span>
+            </div>
+        </div>
+
+</section>-->
+
+<!--Check if splash should be displayed  (Disabling this landing page, I think it just annoys people)
+    
+
+    
+    <script src="{{"/assets/vendor/cookie/js.cookie.min.js" | relative_url }}"></script>
+    <script>
+            if(!Cookies.get('LandingDone'))
+            {
+                window.location = "/Landing/"; 
+            }
+    </script>
+-->
+
+<section class="text-secondary pt-3" id="Introduction">
+        <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mt-3">
+                <h3 class="text-left">Latest Post</h3>
+                <hr>
+                {% assign post = site.posts.first %}
+                <article class="post-preview">
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                    <h4 class="text-secondary">{{ post.title }}</h4>
+                </a>
+                    {% if post.subtitle %}
+                    <h4 class="post-subtitle">{{ post.subtitle }}</h4>
+                    {% endif %}
+                    <p class="post-meta">Posted by
+                        {% if post.author %}
+                        {{ post.author }}
+                        {% else %}
+                        {{ site.author }}
+                        {% endif %}
+                        on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}</p>
+                    {{post.content}}
+              
+                </article>
+                
+                <p>Click <a href="{{site.data.urls.intro}}">here</a> to learn more about<span class="text-oabold"> OneAction</span></p>
+
+            </div>
+            <div class="col-lg-4 col-md-10 mt-3">
+                    
+                    <h3 class="text-left">Previous Posts</h3>
+                    <hr>
+                    {% include previousposts.html %}
+                    <hr>
+                    <h4 class="text-left">Get involved:</h4>
+                    <p>
+                        <ul>
+                            <li><strong>Linux Admin</strong> - We need a Linux admin to help run our various platforms</li>
+                            <li><strong>Graphic Artist/Animator</strong> - Things around here are looking pretty boring, we need someone to bring some flare and help explain these ideas visually</li>
+                        </ul>
+                    </p>
+                    <p>
+                        <a href="{{site.data.urls.contact}}">Get in Contact</a>
+                    </p>
+                
+            </div>
+
+
+
+       </div>
+
+
+</section>
+<!--
+<section class="text-white pt-3 bg-secondary"  id="Introduction">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                <h3>dsfsf</h3>
+                <p>sfdsfsdgdg</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+-->
